@@ -7,5 +7,6 @@
 Jupyter Notebook
 Pandas
 Nltk
-sckit-learn
+Scikit-learn
+
 
